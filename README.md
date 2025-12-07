@@ -104,8 +104,20 @@ Me chamo **Victor Alves**, tenho **27 anos** e sou de **Cerquilho/SP**. Aos **17
     </samp>
     <br>
     <br>
-    [![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:victordev@nyxis.com.br)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/victor-alves-dev/)
+    <div align="center">
+    <a href="mailto:victordev@nyxis.com.br">
+        <img alt="Email" title="Email" src="https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff" />
+    </a> 
+    <a href="https://www.instagram.com/viitao.dev/?next=%2F">
+        <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-755b25?style=for-the-badge&logo=instagram&logoColor=fff" />
+    </a> 
+    <a href="https://discord.com/users/201153593951125504">
+        <img alt="Discord" title="Discord" src="https://img.shields.io/badge/Discord-755b25?style=for-the-badge&logo=Discord&logoColor=fff" />
+    </a> 
+    <a href="https://www.linkedin.com/in/victordevnyxis/">
+        <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff" />
+    </a> 
+    </div>
   </div>
 
   <div align="center">
