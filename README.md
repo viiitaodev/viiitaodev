@@ -25,7 +25,7 @@
 
 <br>
 
-Me chamo **Victor Alves**, tenho **27 anos** e sou de **Cerquilho/SP**. Aos **17**, comecei criando pequenos sites por hobby; aos **19**, entrei no meu primeiro emprego e iniciei **ADS**, formando-me enquanto trabalhava. Aos **24**, num pequeno escritório, eu e um amigo demos vida à **Nyxis** como um braço interno para construir sites — logo depois abrimos espaço para marketing digital. Em **fev/2024**, assumi a **Nyxis** por inteiro, junto com meu sócio, como **Fundador e Desenvolvedor Full-Stack**, liderando produto e tecnologia end-to-end. O que começou simples virou nosso universo: tecnologia e criatividade crescendo a cada desafio. Hoje, sigo focado em transformar ideias em produtos reais, com **qualidade, performance e uma ótima experiência do usuário** — e a **Nyxis** se tornou um **Grupo**, com três frentes:
+Me chamo **Victor Alves**, tenho **27 anos** e sou de **Cerquilho/SP**. Aos **17**, comecei criando pequenos sites por hobby; aos **19**, entrei no meu primeiro emprego e iniciei **ADS**, formando-me enquanto trabalhava. Aos **24**, num pequeno escritório, eu e um amigo demos vida à **Nyxis** como um braço interno para construir sites logo depois abrimos espaço para marketing digital. Em **fev/2024**, assumi a **Nyxis** por inteiro, junto com meu sócio, como **Fundador e Desenvolvedor Full-Stack**, liderando produto e tecnologia end-to-end. O que começou simples virou nosso universo: tecnologia e criatividade crescendo a cada desafio. Hoje, sigo focado em transformar ideias em produtos reais, com **qualidade, performance e uma ótima experiência do usuário** e a **Nyxis** se tornou um **Grupo**, com três frentes:
 
 <br>
 
