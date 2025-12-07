@@ -75,8 +75,6 @@ Me chamo **Victor Alves**, tenho **27 anos** e sou de **São Paulo**. Aos **17**
     src="https://nyxis.com.br/project/icons8-delphi.svg" 
 />
 
-<br/>
-<br/>
 
 <img 
     align="left" 
@@ -119,8 +117,6 @@ Me chamo **Victor Alves**, tenho **27 anos** e sou de **São Paulo**. Aos **17**
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
 />
 
-<br/>
-<br/>
 
 <img 
     align="left" 
@@ -162,9 +158,6 @@ Me chamo **Victor Alves**, tenho **27 anos** e sou de **São Paulo**. Aos **17**
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
-
-<br/>
-<br/>
 
 <img 
     align="left" 
