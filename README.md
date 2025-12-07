@@ -199,14 +199,6 @@ Me chamo **Victor Alves**, tenho **27 anos** e sou de **Cerquilho/SP**. Aos **17
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain.svg" 
 />
-<img 
-    align="left" 
-    alt="Jest" 
-    title="Jest"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" 
-/>
 
 <br/>
 <br/>
