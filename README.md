@@ -120,17 +120,6 @@ Me chamo **Victor Alves**, tenho **27 anos** e sou de **Cerquilho/SP**. Aos **17
     </div>
   </div>
 
-  <div align="center">
-    <p align="center">
-        <samp>
-          ♡ <a href="https://nyxis.com.br">Nyxis</a> ⊹
-          <a href="https://studio.nyxis.com.br">Nyxis Studio</a> ⊹
-          <a href="https://health.nyxis.com.br">Nyxis Health</a> ⊹
-          <a href="https://github.com/viiitaodev">GitHub</a> ♡
-        </samp>
-    </p>
-  </div>
-
   <br>
 
 </details>
