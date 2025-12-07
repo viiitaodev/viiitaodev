@@ -66,6 +66,14 @@ Me chamo **Victor Alves**, tenho **27 anos** e sou de **São Paulo**. Aos **17**
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Delphi" 
+    title="Delphi"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://nyxis.com.br/project/icons8-delphi.svg" 
+/>
 
 <br/>
 <br/>
@@ -108,7 +116,7 @@ Me chamo **Victor Alves**, tenho **27 anos** e sou de **São Paulo**. Aos **17**
     title="NestJS" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
 />
 
 <br/>
