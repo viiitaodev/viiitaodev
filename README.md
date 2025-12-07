@@ -1,7 +1,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://nyxis.com.br/project/nyxis.png" />
+  <img align="center" height="350" src="https://nyxis.com.br/project/nyxis.png" />
 </div>
 
 <div align="center">
