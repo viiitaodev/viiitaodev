@@ -5,13 +5,14 @@
 </div>
 
 <div align="center">
-  <b>`👨‍💻 Desenvolvedor FullStack`</b>
+  <b>👨‍💻 Desenvolvedor FullStack</b>
   <samp>
       <br>
-      Olá! Eu sou <b>Victor Alves</b>
+      <br>
+      <b>@viitao.dev</b>
   </samp>
 </div>
-
+<br>
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=Sou+de+Cerquilho%2FSP;Fundador+e+Desenvolvedor+Full-Stack+na+Nyxis;Transformando+ideias+em+produtos+reais;Seja+bem-vindo!" alt="Typing SVG"/>
 </div>
