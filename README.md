@@ -66,6 +66,10 @@ Me chamo **Victor Alves**, tenho **27 anos** e sou de **São Paulo**. Aos **17**
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+<br/>
+<br/>
+
 <img 
     align="left" 
     alt="React"
@@ -106,6 +110,10 @@ Me chamo **Victor Alves**, tenho **27 anos** e sou de **São Paulo**. Aos **17**
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" 
 />
+
+<br/>
+<br/>
+
 <img 
     align="left" 
     alt="Prisma" 
@@ -146,6 +154,10 @@ Me chamo **Victor Alves**, tenho **27 anos** e sou de **São Paulo**. Aos **17**
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
+
+<br/>
+<br/>
+
 <img 
     align="left" 
     alt="Microsoft SQL Server" 
