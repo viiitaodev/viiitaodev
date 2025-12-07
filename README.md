@@ -106,7 +106,7 @@ Me chamo **Victor Alves**, tenho **27 anos** e sou de **Cerquilho/SP**. Aos **17
     <br>
     <div align="center">
     <a href="mailto:victordev@nyxis.com.br">
-        <img alt="Email" title="Email" src="https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff" />
+        <img alt="Email" title="Email" src="https://img.shields.io/badge/Email-755b25?style=for-the-badge&logo=gmail&logoColor=fff" />
     </a> 
     <a href="https://www.instagram.com/viitao.dev/?next=%2F">
         <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-755b25?style=for-the-badge&logo=instagram&logoColor=fff" />
