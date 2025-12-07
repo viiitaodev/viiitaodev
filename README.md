@@ -50,6 +50,13 @@ Me chamo **Victor Alves**, tenho **27 anos** e sou de **Cerquilho/SP**. Aos **17
   <br>
   <br> -->
   <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viiitaodev&theme=nord_dark"/>
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viiitaodev&show_icons=true&locale=en&layout=compact" alt="viiitaodev" /></p>
+  
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viiitaodev&show_icons=true&locale=en" alt="viiitaodev" /></p>
+  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viiitaodev&" alt="viiitaodev" /></p>
+  
 </div>
 
 <br>
