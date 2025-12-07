@@ -45,11 +45,11 @@ Me chamo **Victor Alves**, tenho **27 anos** e sou de **Cerquilho/SP**. Aos **17
 <br>
 
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=viiitaodev&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viiitaodev&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=viiitaodev&show_icons=true&count_private=true&rank_icon=github&theme=black&include_all_commits=true&locale=pt-br"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viiitaodev&layout=compact&langs_count=16&theme=black"/>
   <br>
   <br>
-  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viiitaodev&theme=tokyonight"/>
+  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viiitaodev&theme=black"/>
 </div>
 
 <br>
