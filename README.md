@@ -1,4 +1,4 @@
-<br>
+<br> <b>Perfil Recriado</b>
 
 <div align="center">
   <img align="center" height="250" src="https://nyxis.com.br/project/nyxis.png" />
