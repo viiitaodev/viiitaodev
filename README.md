@@ -57,7 +57,7 @@ Me chamo **Victor Alves**, tenho **27 anos** e sou de **Cerquilho/SP**. Aos **17
     <br>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viiitaodev" alt="viiitaodev" /></a> </p>
    </div> -->
- <b>Perfil novo, o antigo perdi</b>
+ <b>Perfil Novo / New Profile</b>
 
 <br>
 <br>
