@@ -65,7 +65,7 @@ Me chamo **Victor Alves**, tenho **27 anos** e sou de **Cerquilho/SP**. Aos **17
 ### 🤖 Linguagens e Tecnologias
 
 <div align="center" style="display: inline_block">
-  <img width="40" src="https://nyxis.com.br/project/icons8-delphi.svg" />
+  <img width="40" src="https://cdn.discordapp.com/attachments/1089399241060913152/1539819186925080647/5968252.png?ex=6a87b3de&is=6a86625e&hm=7fc602fe2440a3342604474eebdef2a7a44d90b22198cefc4f8ddb5619eb7416&" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
