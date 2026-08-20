@@ -1,7 +1,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="250" src="https://nyxis.com.br/project/nyxis.png" />
+  <img align="center" height="250" src="https://cdn.discordapp.com/attachments/1089399241060913152/1539818797169643580/logo_1_aproximada.png?ex=6a87b381&is=6a866201&hm=1ba633f704f8120b35a8c57aa9a699eb91112a03b4552cf24f1c0251b3e38599&" />
 </div>
 
 <div align="center">
